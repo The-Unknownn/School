@@ -1,0 +1,5 @@
+print("s1a19 李景霖")
+print("小於1的次方計算")
+x = int(input("請輸入 x = "))
+y = float(input("請輸入 y = "))
+print(f"小於1的次方z是: {x**y}")
