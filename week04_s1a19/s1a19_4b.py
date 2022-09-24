@@ -1,0 +1,6 @@
+print("s1a19 李景霖\n")
+a = int(input("請輸入a:"))
+b = int(input("請輸入b:"))
+c = int(input("請輸入c:"))
+d = a-(b+c)*(3*a-c)
+print(d)
