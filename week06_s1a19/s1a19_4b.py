@@ -1,6 +1,3 @@
-from dis import dis
-
-
 print("s1a19 李景霖\n")
 # Python Program
 money = int(input("請輸入金額？"))
